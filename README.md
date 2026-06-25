@@ -4,7 +4,8 @@ Spring Boot 기반 백엔드 개발과 배포·운영 경험을 정리한 포트
 
 ## Portfolio
 
-- [Backend Portfolio PDF](./KimDongGyu_Backend_Portfolio.pdf)
+- [Backend Portfolio PDF](./김동규_Backend_Portfolio.pdf)
+- [AI Portfolio PDF](./김동규_AI_Portfolio.pdf)
 
 ## Main Experience
 
